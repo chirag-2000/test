@@ -1,0 +1,4 @@
+key.txt
+
+# will ignore itself
+.gitignore 
